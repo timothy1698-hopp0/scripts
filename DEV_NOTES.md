@@ -9,3 +9,8 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Updated license year
 - Reorganised test fixtures
+
+## 2026-04-29
+- Improved error handling in edge cases
+- Tested build on clean environment
+- Wrote notes on upcoming feature design
